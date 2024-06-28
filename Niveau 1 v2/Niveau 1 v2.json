@@ -347,7 +347,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.30000352995839724,
+        "zoomFactor": 0.5633579909742487,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1008,7 +1008,7 @@
           "name": "right",
           "persistentUuid": "6dac5a12-119a-4793-8729-39c9721f41e2",
           "width": 0,
-          "x": 3479,
+          "x": 3904,
           "y": 98,
           "zOrder": 41,
           "numberProperties": [],
