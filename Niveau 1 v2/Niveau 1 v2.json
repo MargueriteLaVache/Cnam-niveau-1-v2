@@ -20,8 +20,8 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "Niveau 1 v2",
-    "description": "",
+    "name": "Platformer - Level 1",
+    "description": "A 2D platformer",
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
@@ -50,8 +50,12 @@
       "placement": "bottom-left",
       "showWatermark": true
     },
-    "authorIds": [],
-    "authorUsernames": [],
+    "authorIds": [
+      "p314JewSPJMj1kfW8OrVnlNjwp13"
+    ],
+    "authorUsernames": [
+      "Space_Monkey"
+    ],
     "categories": [],
     "playableDevices": [],
     "extensionProperties": [],
@@ -347,7 +351,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5633579909742487,
+        "zoomFactor": 0.2715921368473889,
         "windowMask": false
       },
       "objectsGroups": [],
