@@ -1,0 +1,12 @@
+{
+  "name": "Platformer - Level 1",
+  "short_name": "Platformer - Level 1",
+  "id": "com.example.gamename",
+  "description": "A 2D platformer in a nice universe where everybody smiles (or frowns).",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}

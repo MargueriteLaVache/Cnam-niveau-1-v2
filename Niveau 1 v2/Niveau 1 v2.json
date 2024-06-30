@@ -21,11 +21,11 @@
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Platformer - Level 1",
-    "description": "A 2D platformer",
-    "author": "",
+    "description": "A 2D platformer in a nice universe where everybody smiles (or frowns).",
+    "author": "Witness Me Studio",
     "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\Travail\\Documents\\GitHub\\Cnam_Level_1\\Export_HTML",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -58,7 +58,13 @@
     ],
     "categories": [],
     "playableDevices": [],
-    "extensionProperties": [],
+    "extensionProperties": [
+      {
+        "extension": "AdMob",
+        "property": "AdMobAppIdAndroid",
+        "value": ""
+      }
+    ],
     "platforms": [
       {
         "name": "GDevelop JS platform"
@@ -351,7 +357,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2715921368473889,
+        "zoomFactor": 0.6873893584318864,
         "windowMask": false
       },
       "objectsGroups": [],
